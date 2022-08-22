@@ -10,16 +10,19 @@ body{
     
 }
 
+.place{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .place1{
     background: hsl(0, 0%, 100%);
     width: 320px;
     border-radius: 18px;
     padding: 16px;
     box-shadow: 0px 3px 10px 0px grey;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .place2 , .place3{
