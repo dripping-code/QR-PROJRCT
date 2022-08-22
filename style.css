@@ -7,9 +7,6 @@
 body{
     font-family: 'outfit', sans-serif;
     background-color: hsl(212, 45%, 89%);
-    
-}
-.place{    
     height: 100vh;
     display: flex;
     justify-content: center;
